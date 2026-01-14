@@ -263,6 +263,7 @@ const List<HealthDataType> dataTypeKeysAndroid = [
   HealthDataType.NUTRITION,
   HealthDataType.TOTAL_CALORIES_BURNED,
   HealthDataType.MENSTRUATION_FLOW,
+  HealthDataType.MINDFULNESS,
 ];
 
 /// Maps a [HealthDataType] to a [HealthDataUnit].
